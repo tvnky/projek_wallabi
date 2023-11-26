@@ -1,0 +1,6 @@
+- Batasan login perlu ditambahkan :
+--- Username tidak boleh ada spasi
+--- Password Minimal 8 Karakter, dengan huruf kapital, huruf,dan simbol unik
+
+- Menambahkan Evaluasi
+- Menyambungkan source code dr unlinked_sc
